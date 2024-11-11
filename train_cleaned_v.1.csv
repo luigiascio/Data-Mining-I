@@ -1279,7 +1279,6 @@ Martin Mull/Jerry Seinfeld/Scot Morris,"(9, 10]",1984,,42,,14,1,10,4,0,9,0,tvEpi
 Heart of a Dog,"(6, 7]",2015,,75,4.0,2579,1,10,61,2,150,84,movie,13,False,True,False,13,24,2580,"['US', 'FR']",Documentary,6.5
 General Population,"(7, 8]",2022,,43,0.0,28,1,10,0,0,74,0,tvEpisode,0,False,True,False,1,0,28,['US'],"Crime,Documentary,Reality-TV",7.5
 Casper the Friendly Ghost,"(6, 7]",1945,,9,,545,1,10,21,0,23,1,short,0,False,True,False,7,6,546,['US'],"Animation,Comedy,Family",6.5
-Jerry Lewis MDA Labor Day Telethon,"(6, 7]",1966,2014.0,1290,1.0,139,1,10,29,1,1167,0,tvSeries,2,True,True,False,1,1,139,['US'],News,6.5
 Claymation Christmas Celebration,"(8, 9]",1987,,24,1.0,1024,1,10,82,0,61,4,tvSpecial,0,False,True,False,5,22,1025,['US'],"Animation,Comedy,Family",8.5
 Kakuto,"(6, 7]",2002,,108,,113,1,10,1,0,26,1,movie,3,False,True,False,1,0,113,['JP'],"Action,Crime,Drama",6.5
 Zombie Olympics 2012,"(9, 10]",2012,,3,0.0,8,1,10,0,0,32,0,short,0,False,True,False,1,0,8,['US'],"Comedy,Short",9.5
@@ -1667,7 +1666,6 @@ Episode #1.4,"(7, 8]",2021,,40,,33,1,10,0,0,105,1,tvEpisode,0,False,True,False,7
 Feverish Ravings,"(7, 8]",1985,,24,0.0,39,1,10,1,0,19,0,tvEpisode,0,False,True,False,1,0,39,['JP'],"Animation,Comedy,Drama",7.5
 Love Automatic: Nightmare,"(6, 7]",2011,,4,0.0,31,1,10,2,0,1,0,short,0,False,True,False,1,0,31,['US'],"Animation,Horror,Music",6.5
 Hello My Beautiful Creatures,"(6, 7]",2024,,142,0.0,116,1,10,1,0,12,0,movie,0,False,True,False,2,3,117,['US'],"Animation,Comedy,Drama",6.5
-If Beale Street Could Talk,"(7, 8]",2018,,119,109.0,53013,1,10,197,26,397,302,movie,197,False,True,False,36,328,53023,['US'],"Drama,Romance",7.5
 Power Corrupts,"(7, 8]",1997,,46,,81,1,10,9,0,107,0,tvEpisode,0,False,True,False,1,0,81,['US'],"Crime,Drama,Mystery",7.5
 Run for Your Life,"(5, 6]",2014,,120,0.0,380,1,10,9,0,139,2,tvMovie,2,False,True,False,4,7,380,['CA'],"Drama,Mystery,Thriller",5.5
 Kailan sasabihing mahal kita,"(7, 8]",1985,,111,0.0,10,1,10,2,0,57,0,movie,0,False,True,False,1,0,10,['PH'],"Drama,Romance",7.5
@@ -7671,7 +7669,6 @@ Barely Legal Summer Camp,"(7, 8]",2003,,105,0.0,16,1,10,0,0,36,2,video,0,False,T
 Unyielding Resolve,"(8, 9]",2015,,40,0.0,13,1,10,1,0,40,0,tvEpisode,0,False,True,False,1,0,13,['JP'],"Adventure,Animation,Fantasy",8.5
 Hawk and Rev: Vampire Slayers,"(4, 5]",2020,,85,6.0,248,1,10,28,1,50,19,movie,0,False,True,False,8,11,249,['US'],"Comedy,Horror",4.5
 Espa Roba: The ESP Duelist - Part 2,"(7, 8]",2003,,22,0.0,238,1,10,1,0,9,0,tvEpisode,0,False,True,False,1,0,238,['JP'],"Action,Adventure,Animation",7.5
-The Witcher,"(7, 8]",2019,,60,8.0,582007,1,10,842,35,3925,171,tvSeries,36,True,True,False,44,5727,582262,"['PL', 'HU', 'US', 'GB']","Action,Adventure,Drama",7.5
 The Good Fellows,"(7, 8]",1943,,70,0.0,44,1,10,13,0,69,1,movie,0,False,True,False,3,1,44,['US'],"Comedy,Romance",7.5
 "Ina, Kasusuklaman Ba Kita?","(7, 8]",2010,2010.0,53,0.0,9,1,10,16,0,29,0,tvSeries,0,True,True,False,1,0,9,['PH'],,7.5
 WPINK-TV 4,"(6, 7]",1993,,74,0.0,21,1,10,0,0,26,0,video,0,False,True,True,1,1,21,['US'],"Adult,Drama",6.5
@@ -7791,7 +7788,6 @@ Siber,"(7, 8]",2013,,28,0.0,15,1,10,8,0,60,0,short,0,False,True,False,1,0,15,['U
 The 48-Hour Mile,"(6, 7]",1970,,97,0.0,19,1,10,1,0,36,0,tvMovie,0,False,True,False,1,0,19,['US'],"Crime,Drama",6.5
 The Ann-Margret Show,"(9, 10]",1968,,60,0.0,15,1,10,7,0,25,0,tvSpecial,0,False,True,False,1,0,15,['US'],"Comedy,Music",9.5
 Death Takes a Holiday on Ice,"(7, 8]",1989,,30,,475,1,10,6,0,117,1,tvEpisode,0,False,True,False,1,3,476,['US'],"Comedy,Drama",7.5
-Nova,"(8, 9]",1974,,60,23.0,3181,1,10,722,117,15742,2,tvSeries,64,True,True,False,17,7,3182,"['US', 'GB', 'JP', 'FR', 'AU', 'CA']",Documentary,8.5
 John and Betty and the Magic Dog,"(4, 5]",1966,,13,0.0,6,1,10,0,0,0,0,short,0,False,True,False,1,0,6,['GB'],"Drama,Short",4.5
 Cathexis,"(6, 7]",1995,,46,0.0,2042,1,10,15,0,136,5,tvEpisode,0,False,True,False,1,12,2045,['US'],"Action,Adventure,Drama",6.5
 Janathipathyam,"(5, 6]",1997,,92,,75,1,10,2,0,31,0,movie,0,False,True,False,1,0,75,['IN'],"Action,Crime,Mystery",5.5
@@ -13996,7 +13992,6 @@ Rowzanehe omid,"(3, 4]",1958,,100,0.0,10,1,10,10,0,13,0,movie,0,False,True,False
 Fast and Furious,"(4, 5]",1924,,92,0.0,19,1,10,0,0,4,0,movie,0,False,True,False,2,0,19,['US'],Western,4.5
 Ka' De li' østers,"(7, 8]",1967,1967.0,35,0.0,94,1,10,42,0,35,1,tvSeries,0,True,True,False,2,0,94,['DK'],Crime,7.5
 Tigmi Nigren,"(6, 7]",2017,,85,8.0,31,1,10,2,0,23,2,movie,2,False,True,False,4,0,31,"['MA', 'QA']",Documentary,6.5
-Alim Dayi,"(5, 6]",1991,1995.0,3000,0.0,47,1,10,4,0,25,0,tvSeries,0,True,True,False,1,0,47,['TR'],Comedy,5.5
 Swamps,"(8, 9]",2023,,38,0.0,320,1,10,1,0,269,0,tvEpisode,0,False,True,False,1,1,320,"['US', 'GB']","Animation,Documentary,History",8.5
 Le miracle des loups,"(6, 7]",1924,,73,0.0,100,1,10,18,0,46,3,movie,0,False,True,False,18,1,100,['FR'],"Drama,History",6.5
 Anastasia - Die letzte Zarentochter,"(5, 6]",1956,,107,2.0,126,1,10,14,0,74,1,movie,1,False,True,False,12,1,126,['XWG'],Drama,5.5
