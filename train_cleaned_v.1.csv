@@ -2572,7 +2572,6 @@ The Man Who Haunted Himself,"(6, 7]",1970,94,2918,98,1,96,movie,False,True,False
 The Return,"(8, 9]",2016,14,6,9,0,34,short,False,True,False,1,6,['US'],"Sci-Fi,Short",8.5,0,0
 Zofka a spol,"(7, 8]",1986,53,20,1,0,8,tvSeries,True,True,False,2,20,['CSHH'],"Animation,Comedy,Family",7.5,0,0
 "Berry, Merry Christmas","(6, 7]",2003,43,85,31,0,123,tvEpisode,False,True,False,2,85,['US'],"Animation,Family,Musical",6.5,0,0
-Mission: Impossible - Fallout,"(7, 8]",2018,92,385052,440,45,2102,movie,False,True,False,55,385231,"['US', 'CN', 'FR', 'NO']","Action,Adventure,Thriller",7.5,2260,67
 Speedie Date,"(6, 7]",2008,53,303,1,0,82,tvSeries,True,True,False,1,303,['US'],"Comedy,Drama,Romance",6.5,3,0
 Lowy,"(5, 6]",2019,9,14,3,0,18,short,False,True,False,4,14,['PL'],"Animation,Short",5.5,0,1
 The Making of 'The Living Daylights' Music Video,"(6, 7]",1987,4,16,4,0,7,video,False,True,False,1,16,['US'],"Documentary,Music,Short",6.5,0,0
@@ -3538,7 +3537,6 @@ Punk Chick,"(7, 8]",1999,22,1229,1,0,86,tvEpisode,False,True,False,1,1230,['US']
 Brownies for Thud Mackie,"(8, 9]",1991,40,31,1,0,64,tvEpisode,False,True,False,1,31,['US'],"Comedy,Family,Romance",8.5,0,0
 The Premonition,"(6, 7]",2009,5,6,0,0,9,short,False,True,False,1,6,['GB'],"Drama,Fantasy,Short",6.5,0,0
 Glimpses of Washington State,"(6, 7]",1940,9,54,2,0,7,short,False,True,False,1,54,['US'],"Documentary,Short",6.5,3,0
-Harry Potter and the Deathly Hallows - Part 2,"(8, 9]",2011,130,966565,552,36,2702,movie,False,True,False,60,967042,"['GB', 'US']","Adventure,Family,Fantasy",8.5,1409,144
 Apple World Wide Developers Conference,"(8, 9]",1989,53,11,3,0,42,tvSeries,True,True,False,1,11,['US'],News,8.5,0,0
 Anno zero - Guerra nello spazio,"(2, 3]",1977,89,1046,63,1,45,movie,False,True,False,20,1046,['IT'],"Adventure,Sci-Fi",2.5,65,0
 Au Revoir Pizza Place,"(8, 9]",1999,22,395,0,0,74,tvEpisode,False,True,False,1,396,['US'],"Comedy,Romance",8.5,0,0
@@ -3944,7 +3942,6 @@ Disco Kung Fu,"(6, 7]",2002,44,315,10,0,32,short,False,True,False,1,315,['SE'],S
 Mr. Miller Goes to Washington Starring Dennis Miller,"(6, 7]",1988,82,85,3,0,48,tvSpecial,False,True,False,1,85,['US'],Comedy,6.5,3,3
 Nonconformist,"(7, 8]",2015,23,73,1,0,66,tvEpisode,False,True,False,1,73,['JP'],"Action,Animation,Drama",7.5,0,0
 Numb,"(8, 9]",2016,10,12,11,0,32,short,False,True,False,2,12,['US'],"Drama,Short",8.5,14,8
-Días de cine,"(6, 7]",1991,53,341,2,0,4443,tvSeries,True,True,False,1,341,['ES'],News,6.5,0,9
 "Jane, mi pequeña salvaje","(4, 5]",1982,94,19,2,0,40,movie,False,True,False,1,19,['ES'],"Adventure,Comedy",4.5,0,0
 Unser fremdes Kind,"(5, 6]",1998,90,76,1,0,73,movie,False,True,False,4,76,"['PL', 'DE']",Drama,5.5,0,2
 Aterro,"(7, 8]",2011,72,26,1,0,8,movie,False,True,False,1,26,['BR'],"Biography,Documentary,History",7.5,0,0
@@ -4654,7 +4651,6 @@ The Ascension of the Angels,"(8, 9]",1993,24,13,0,0,35,tvEpisode,False,True,Fals
 Little Nell,"(4, 5]",1917,13,19,0,0,1,short,False,True,False,1,19,['US'],Short,4.5,0,0
 A Country Romance,"(5, 6]",2021,83,425,2,1,56,tvMovie,False,True,False,9,426,['US'],"Comedy,Romance",5.5,15,0
 Subimago,"(7, 8]",2017,57,9,9,0,32,movie,False,True,False,1,9,['FR'],"Drama,Fantasy,Mystery",7.5,1,4
-HBO First Look,"(6, 7]",1992,13,487,73,0,4973,tvSeries,True,True,False,5,487,['US'],"Documentary,Short",6.5,3,3
 Die Frau des Heimkehrers,"(3, 4]",2006,81,77,1,0,37,tvMovie,False,True,False,2,77,['DE'],"Drama,History,Romance",3.5,3,1
 Terrace House: Closing Door,"(5, 6]",2015,129,116,2,0,14,movie,False,True,False,4,116,['JP'],"Drama,Reality-TV",5.5,1,0
 Hot Cherry Pies 3,"(5, 6]",2005,240,18,0,0,56,video,False,True,True,1,18,['US'],Adult,5.5,1,0
@@ -10755,7 +10751,6 @@ Détour,"(6, 7]",2017,11,234,1,0,29,short,False,True,False,1,233,['FR'],"Adventu
 When Larry Ate Sally,"(5, 6]",1990,74,13,0,0,17,movie,False,True,True,1,13,['US'],"Adult,Comedy,Romance",5.5,1,0
 Bhakta Prahlada,"(7, 8]",1932,108,93,1,0,13,movie,False,True,False,1,93,['IN'],"Drama,Fantasy",7.5,0,0
 Play with Me,"(4, 5]",2014,92,14,40,0,38,movie,False,True,False,2,14,['GB'],Thriller,4.5,0,0
-Armchair Theatre,"(7, 8]",1956,60,248,2187,1,3045,tvSeries,True,True,False,5,248,['GB'],Drama,7.5,4,4
 Salakaato,"(6, 7]",2010,47,24,0,0,66,tvEpisode,False,True,False,1,24,['FI'],Drama,6.5,0,0
 Show #73,"(6, 7]",1996,40,17,0,0,5,tvEpisode,False,True,False,1,17,['DE'],"Comedy,Talk-Show",6.5,0,0
 Crossing Over with John Edward,"(1, 2]",2001,30,517,2,0,194,tvSeries,True,True,False,5,517,['US'],"Sci-Fi,Talk-Show",1.5,18,0
@@ -11952,7 +11947,6 @@ Est & Ouest: Les paradis perdus,"(6, 7]",1993,70,14,1,0,15,movie,False,True,Fals
 Agora meyhanesi,"(6, 7]",1968,90,31,1,0,8,movie,False,True,False,1,31,['TR'],Drama,6.5,0,0
 Watched,"(8, 9]",2012,3,27,0,0,5,short,False,True,False,1,27,['US'],"Drama,Short,Thriller",8.5,1,0
 A Man in Blue,"(7, 8]",2005,40,132,1,0,134,tvEpisode,False,True,False,1,132,['US'],"Crime,Drama,Mystery",7.5,1,0
-Nachtcafé,"(6, 7]",1987,90,53,9,0,4404,tvSeries,True,True,False,2,54,['XWG'],Talk-Show,6.5,0,0
 Eleftheri shesi,"(3, 4]",2018,47,19,7,0,49,tvSeries,True,True,False,1,19,['GR'],"Comedy,Romance",3.5,0,0
 El indio,"(3, 4]",1939,83,17,1,0,22,movie,False,True,False,1,17,['MX'],"Adventure,Drama",3.5,0,0
 Kynigimeni prosfygopoula,"(4, 5]",1969,92,12,101,0,18,movie,False,True,False,2,12,['GR'],Drama,4.5,0,0
@@ -13714,7 +13708,6 @@ Bir gecelik gelin,"(5, 6]",1962,79,27,3,0,39,movie,False,True,False,1,27,['TR'],
 Xiao Bi Cong jun fa,"(7, 8]",1983,92,35,1,0,16,movie,False,True,False,1,35,['TW'],"Comedy,Drama",7.5,0,0
 Fuoco e fumo,"(5, 6]",2021,86,14,1,0,2,movie,False,True,False,2,14,['IT'],Drama,5.5,1,0
 Betonhjerter,"(4, 5]",2005,90,44,4,0,49,video,False,True,False,3,44,['DK'],Drama,4.5,4,0
-Magpakailanman,"(6, 7]",2012,53,84,3350,0,2685,tvSeries,True,True,False,9,85,['PH'],"Drama,Romance",6.5,0,7
 Safe and Sound,"(7, 8]",2002,40,9,1,0,9,tvEpisode,False,True,False,1,9,['GB'],"Adventure,Comedy,Family",7.5,0,0
 Amon Saga,"(5, 6]",1986,80,285,64,0,142,movie,False,True,False,15,285,['JP'],"Action,Adventure,Animation",5.5,7,0
 ...e venne il tempo di uccidere,"(5, 6]",1968,95,170,4,0,58,movie,False,True,False,10,170,['IT'],Western,5.5,7,0
