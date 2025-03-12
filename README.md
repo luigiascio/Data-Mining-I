@@ -63,4 +63,4 @@ You can see the full details in the `LICENSE` file.
 
 ---
 
-Additionally, the complete report is available in the file `Data_Mining_1_Project.pdf`.
+Additionally, the complete report is available in the file `Imbd_report.pdf`.
