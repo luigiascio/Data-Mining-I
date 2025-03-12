@@ -30,6 +30,7 @@ The project follows a structured flow, divided into several phases:
 - **Naïve Bayes (Gaussian and Categorical)**  
 - **Decision Trees** with pre-pruning and post-pruning  
 - Performance analysis with metrics such as accuracy, precision, recall, and F1-score  
+- Two excellent classifiers were built with accuracies of **86%** and **90%**  
 
 ### 4️⃣ **Regression**
 - **Linear Regression, Ridge, and Lasso**  
