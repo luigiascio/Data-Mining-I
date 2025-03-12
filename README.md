@@ -30,6 +30,7 @@ The project follows a structured flow, divided into several phases:
 - **Naïve Bayes (Gaussian and Categorical)**  
 - **Decision Trees** with pre-pruning and post-pruning  
 - Performance analysis with metrics such as accuracy, precision, recall, and F1-score  
+- Two excellent classifiers for the titletype were built with accuracies of **86%** and **90%**  
 
 ### 4️⃣ **Regression**
 - **Linear Regression, Ridge, and Lasso**  
@@ -63,4 +64,4 @@ You can see the full details in the `LICENSE` file.
 
 ---
 
-Additionally, the complete report is available in the file `Data_Mining_1_Project.pdf`.
+Additionally, the complete report is available in the file `Imbd_report.pdf`.
